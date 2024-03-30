@@ -1,0 +1,25 @@
+.header {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+.image {
+  width: 50%;
+  height: 100%;
+  border-radius: 15px;
+}
+
+.introduction {
+  width: 100%;
+  display: grid;
+
+  p {
+    text-align: justify;
+    padding: 30px;
+  }
+}
